@@ -1,4 +1,4 @@
 laufspiel
 =========
 
-Spielwiese für ein kleines html5 Spielchen
+Spielwiese für ein kleines html5 Spielchen!
